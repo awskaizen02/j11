@@ -9,6 +9,9 @@
     <input type="checkbox" name="author" value="Sunil">Natu
     <input type="checkbox" name="author" value="Sandy">hari
     <input type="checkbox" name="author" value="Naveen Kumar">Uk
+    <input type="checkbox" name="author" value="Sr Cloud Art">Sandy
+    <input type="checkbox" name="author" value="cloud eng">ram
+    <input type="checkbox" name="author" value="Devops Eng">ganesh
     <input type="submit" value="Query">
   </form>
  
